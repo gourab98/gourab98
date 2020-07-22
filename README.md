@@ -6,7 +6,7 @@ Currently studying Software Engineering at SUST.
 [![Twitter Follow](https://img.shields.io/badge/%20-@GourabSaha98-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/GourabSaha98)
 [![Instagram Follow](https://img.shields.io/badge/%20-_gourab_saha_-black?color=14171A&labelColor=FD1D1D&logo=instagram&logoColor=ffffff)](https://www.instagram.com/_gourab_saha_/) 
 [![Email Address](https://img.shields.io/badge/%20-gourabsahag@gmail.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:gourab04@student.sust.edu)
-[![Blog Visit](https://img.shields.io/badge/Blog-Manstein's%20Blog-yellowgreen)](https://manstein.home.blog/)
+[![Blog Visit](https://img.shields.io/badge/%20-Manstein's_Blog-black?color=14171A&labelColor=FF5722&logo=Blogger&logoColor=ffffff)](https://manstein.home.blog/)
 [![Portfolio Visit](https://img.shields.io/badge/Site-Portfolio-blue)](http://gourabsaha.rf.gd/)
 
 

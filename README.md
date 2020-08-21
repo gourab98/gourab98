@@ -1,5 +1,4 @@
-### Hi there 👋  I'm Gourab Saha, 3rd year Student
-Currently studying Software Engineering at SUST. 
+### Hi there 👋  I'm Gourab Saha, 3rd year, Software Engineering Student. 
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-gourabsaha98-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/gourabsaha98/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-gourabsaha.sust-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/gourabsaha.sust)

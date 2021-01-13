@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Gourab Saha, 3rd year, Software Engineering Student. 
+### Hi there 👋  I'm Gourab Saha, Software Engineering Student at Sust. 
 
 
 - 🌱 I’m currently learning Algorithm, Python(Django Framework). 

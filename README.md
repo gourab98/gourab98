@@ -16,8 +16,6 @@
 [![Blog Visit](https://img.shields.io/badge/%20-Manstein's_Blog-black?color=14171A&labelColor=FF5722&logo=Blogger&logoColor=ffffff)](https://manstein.home.blog/)
 [![Portfolio Visit](https://img.shields.io/badge/Site-Portfolio-blue)](http://gourabsaha.rf.gd/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gourab98&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gourab98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

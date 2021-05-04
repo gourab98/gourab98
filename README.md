@@ -7,7 +7,7 @@
 
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-gourabsaha98-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/gourabsaha98/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-gourabsaha.sust-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/gourabsaha.1998)
+[![Facebook Follow](https://img.shields.io/badge/%20-gourabsaha.1998-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/gourabsaha.1998)
 [![Twitter Follow](https://img.shields.io/badge/%20-@GourabSaha98-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/GourabSaha98)
 [![Instagram Follow](https://img.shields.io/badge/%20-_gourab_saha_-black?color=14171A&labelColor=FD1D1D&logo=instagram&logoColor=ffffff)](https://www.instagram.com/_gourab_saha_/) 
 [![Quora Follow](https://img.shields.io/badge/%20-Gourab--Saha--122-black?color=14171A&labelColor=B92B27&logo=Quora&logoColor=ffffff)](https://www.quora.com/profile/Gourab-Saha-122)

@@ -1,11 +1,5 @@
 ### Hi there 👋  I'm Gourab Saha, Software Engineering Student at Sust. 
 
-
-- 🌱 I’m currently learning Algorithm, Python(Django Framework). 
-- 💬 Ask me about anything.
-- 📫 How to reach me:
-
-
 [![LinkedIn Connect](https://img.shields.io/badge/%20-gourabsaha98-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/gourabsaha98/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-gourabsaha.1998-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/gourabsaha.1998)
 [![Twitter Follow](https://img.shields.io/badge/%20-@GourabSaha98-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/GourabSaha98)

@@ -1,3 +1,5 @@
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+ 
 ### Hey, I'm Gourab Saha, Software Engineering Student at Shahjalal University of Science and Technology, Bangladesh. 
 
 ***
@@ -11,6 +13,18 @@
 [![Email Address](https://img.shields.io/badge/%20-gourabsahag@gmail.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:gourab04@student.sust.edu)
 [![Blog Visit](https://img.shields.io/badge/%20-Manstein's_Blog-black?color=14171A&labelColor=FF5722&logo=Blogger&logoColor=ffffff)](https://manstein.home.blog/)
 [![Portfolio Visit](https://img.shields.io/badge/Site-Portfolio-blue)](http://gourabsaha.rf.gd/)
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/gourab98" />
+</p>
+
+### :zap: Github Stats
+
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=gourab98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=gourab98&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+
+
 
 
 

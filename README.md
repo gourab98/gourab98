@@ -14,7 +14,6 @@
 
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourab98&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 <!--
 **gourab98/gourab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ,

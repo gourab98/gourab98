@@ -20,9 +20,10 @@
 
 ### :zap: Github Stats
 
-![Gourab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gourab98&show_icons=true&theme=dracula&count_private=true)  
+
+![Gourab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gourab98&show_icons=true&theme=react&count_private=true)  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gourab98&langs_count=10&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gourab98&langs_count=10&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=gourab98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

@@ -15,15 +15,16 @@
 [![Portfolio Visit](https://img.shields.io/badge/Site-Portfolio-blue)](http://gourabsaha.rf.gd/)
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/gourab98" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/gourab98"/>
 </p>
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=gourab98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Gourab's Github Stats" width="60%">
+![Gourab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gourab98&show_icons=true&theme=dracula&count_private=true)  
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=gourab98&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Gourab's Top Languages">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gourab98&langs_count=10&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Gourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=gourab98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 

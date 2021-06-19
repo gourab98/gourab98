@@ -1,7 +1,6 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
  
 ### Hey, I'm Gourab Saha, Software Engineering Student at Shahjalal University of Science and Technology, Bangladesh. 
-
 ***
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-gourabsaha98-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/gourabsaha98/) 
@@ -18,11 +17,10 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/gourab98"/>
 </p>
 
-### :zap: Github Stats
-
-
+### Github Stats & Languages Used & Contribution Graph
+***
 ![Gourab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gourab98&show_icons=true&theme=react&count_private=true)  
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gourab98&langs_count=10&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=gourab98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)

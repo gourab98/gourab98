@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gourab98&show_icons=true&theme=react&count_private=true" alt="Gourab Saha's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourab98&theme=react" alt="Gourab Saha's Github Steak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourab98&theme=react&count_private=true" alt="Gourab Saha's Github Steak" />
 </p>
 
 

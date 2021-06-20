@@ -17,11 +17,14 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/gourab98"/>
 </p>
 
-### Github Stats & Languages Used & Contribution Graph
+### Github Stats & Contribution Graph
 ***
-![Gourab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gourab98&show_icons=true&theme=react&count_private=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gourab98&langs_count=10&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gourab98&show_icons=true&theme=react&count_private=true" alt="Gourab Saha's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourab98&theme=react" alt="Gourab Saha's Github Steak" />
+</p>
+
 
 [![Gourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=gourab98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

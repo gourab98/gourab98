@@ -1,4 +1,4 @@
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
  
 ### Hey, I'm Gourab Saha, Software Engineering Student at Shahjalal University of Science and Technology, Bangladesh. 
 ***
@@ -27,6 +27,8 @@
 
 
 <!--
+
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 [![Gourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=gourab98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

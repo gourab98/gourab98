@@ -1,6 +1,6 @@
 
  
-### Hey, I'm Gourab Saha, Software Engineering Student at Shahjalal University of Science and Technology, Bangladesh. 
+### Hey, I'm Gourab, Software Engineering Student at Shahjalal University of Science and Technology, Bangladesh. 
 ***
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-gourabsaha98-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/gourabsaha98/) 

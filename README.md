@@ -13,6 +13,8 @@
 [![Blog Visit](https://img.shields.io/badge/%20-Manstein's_Blog-black?color=14171A&labelColor=FF5722&logo=Blogger&logoColor=ffffff)](https://manstein.home.blog/)
 [![Portfolio Visit](https://img.shields.io/badge/Site-Portfolio-blue)](http://gourabsaha.rf.gd/)
 
+<!--
+
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/gourab98"/>
 </p>
@@ -25,7 +27,6 @@
 </p>
 
 
-<!--
 
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 

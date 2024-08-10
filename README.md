@@ -11,7 +11,7 @@
 [![ASKFM Follow](https://img.shields.io/badge/%20-gourabsahag399-black?color=14171A&labelColor=DB3552&logo=ASKfm&logoColor=ffffff)](https://ask.fm/gourabsahag399)
 [![Email Address](https://img.shields.io/badge/%20-gourabsahag@gmail.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:gourab04@student.sust.edu)
 [![Blog Visit](https://img.shields.io/badge/%20-Manstein's_Blog-black?color=14171A&labelColor=FF5722&logo=Blogger&logoColor=ffffff)](https://manstein.home.blog/)
-[![Portfolio Visit](https://img.shields.io/badge/Site-Portfolio-blue)](http://gourabsaha.rf.gd/)
+[![Portfolio Visit](https://img.shields.io/badge/Site-Portfolio-blue)](http://gourab98.github.io/)
 
 <!--
 

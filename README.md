@@ -8,7 +8,6 @@
 [![Twitter Follow](https://img.shields.io/badge/%20-@GourabSaha98-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/GourabSaha98)
 [![Instagram Follow](https://img.shields.io/badge/%20-_gourab_saha_-black?color=14171A&labelColor=FD1D1D&logo=instagram&logoColor=ffffff)](https://www.instagram.com/_gourab_saha_/) 
 [![Quora Follow](https://img.shields.io/badge/%20-Gourab--Saha--122-black?color=14171A&labelColor=B92B27&logo=Quora&logoColor=ffffff)](https://www.quora.com/profile/Gourab-Saha-122)
-[![ASKFM Follow](https://img.shields.io/badge/%20-gourabsahag399-black?color=14171A&labelColor=DB3552&logo=ASKfm&logoColor=ffffff)](https://ask.fm/gourabsahag399)
 [![Email Address](https://img.shields.io/badge/%20-gourabsahag@gmail.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:gourab04@student.sust.edu)
 [![Blog Visit](https://img.shields.io/badge/%20-Manstein's_Blog-black?color=14171A&labelColor=FF5722&logo=Blogger&logoColor=ffffff)](https://manstein.home.blog/)
 [![Portfolio Visit](https://img.shields.io/badge/Site-Portfolio-blue)](http://gourab98.github.io/)

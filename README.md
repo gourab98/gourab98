@@ -1,6 +1,6 @@
 
  
-### Hey, I'm Gourab, Software Engineering Undergrad, Bangladesh. 
+### Hey, I'm Gourab, a Software Engineering Undergrad from Bangladesh. 
 ***
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-gourabsaha98-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/gourabsaha98/) 
@@ -11,6 +11,7 @@
 [![Email Address](https://img.shields.io/badge/%20-gourabsahag@gmail.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:gourab04@student.sust.edu)
 [![Blog Visit](https://img.shields.io/badge/%20-Manstein's_Blog-black?color=14171A&labelColor=FF5722&logo=Blogger&logoColor=ffffff)](https://manstein.home.blog/)
 [![Portfolio Visit](https://img.shields.io/badge/Site-Portfolio-blue)](http://gourab98.github.io/)
+
 
 <!--
 

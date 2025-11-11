@@ -1,53 +1,58 @@
+## 👋 Hey there, I'm Gourab!
 
- 
-### Hey, I'm Gourab, doing a master's in Information Systems and Technology. Love to work with data-related staff. If you have any interesting project plans or ideas, please reach out to me: gourabsahag@gmail.com
+🎓 Currently pursuing a **Master’s in Information Systems and Technology**  
+💡 Passionate about **data science, analytics, and all things data-driven**  
+🚀 Always open to **collaborations, interesting projects, or new ideas**
 
+📫 **Reach me at:** [gourabsahag@gmail.com](mailto:gourabsahag@gmail.com)  
+🌐 **Website:** [gourab98.github.io](https://gourab98.github.io/)
 
-***
+---
 
-[![Portfolio Visit](https://img.shields.io/badge/Site-Portfolio-blue)](http://gourab98.github.io/)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-gourabsaha98-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/gourabsaha98/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-gourabsaha.1998-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/gourabsaha.1998)
-[![Twitter Follow](https://img.shields.io/badge/%20-@GourabSaha98-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/GourabSaha98)
-[![Instagram Follow](https://img.shields.io/badge/%20-_gourab_saha_-black?color=14171A&labelColor=FD1D1D&logo=instagram&logoColor=ffffff)](https://www.instagram.com/_gourab_saha_/) 
-[![Quora Follow](https://img.shields.io/badge/%20-Gourab--Saha--122-black?color=14171A&labelColor=B92B27&logo=Quora&logoColor=ffffff)](https://www.quora.com/profile/Gourab-Saha-122)
-[![Email Address](https://img.shields.io/badge/%20-gourabsahag@gmail.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:gourab04@student.sust.edu)
-[![Blog Visit](https://img.shields.io/badge/%20-Manstein's_Blog-black?color=14171A&labelColor=FF5722&logo=Blogger&logoColor=ffffff)](https://manstein.home.blog/)
+### 🌐 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Site-Portfolio-blue)](https://gourab98.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourab%20Saha-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourabsaha98/)
+[![X (Twitter)](https://img.shields.io/badge/X-@GourabSaha98-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/GourabSaha98)
+[![Facebook](https://img.shields.io/badge/Facebook-gourabsaha.1998-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/gourabsaha.1998)
+[![Instagram](https://img.shields.io/badge/Instagram-_gourab_saha_-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_gourab_saha_/)
+[![Quora](https://img.shields.io/badge/Quora-Gourab--Saha--122-B92B27?style=flat&logo=quora&logoColor=white)](https://www.quora.com/profile/Gourab-Saha-122)
+[![Email](https://img.shields.io/badge/Email-gourabsahag%40gmail.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:gourabsahag@gmail.com)
+[![Blog](https://img.shields.io/badge/Blogger-Manstein's%20Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://manstein.home.blog/)
 
+📖 Visit **[Manstein’s Blog](https://manstein.home.blog/)** for my latest thoughts and writings.
 
-<!--
+---
+
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/gourab98"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gourab98&theme=react&count_private=true" alt="GitHub Streak" />
 </p>
-
-### Github Stats & Contribution Graph
-***
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourab98&theme=react&count_private=true" alt="Gourab Saha's Github Steak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gourab98&show_icons=true&theme=react" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourab98&layout=compact&theme=react" alt="Top Languages" />
+</p>
 
+---
 
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+### 🌱 Currently Exploring
+- Advanced data visualization and analytics  
+- Cloud-based data pipelines (AWS, Azure)  
+- Machine learning for business insights  
 
-[![Gourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=gourab98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### 💬 Fun Fact
+When I’m not working with data, I love reading about strategy, psychology, and history — hence the name **Manstein’s Blog** 😄
 
+---
 
-**gourab98/gourab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-,
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- Reliable visitor counter -->
+  <img src="https://komarev.com/ghpvc/?username=gourab98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>

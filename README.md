@@ -1,8 +1,11 @@
 
  
-### Hey, I'm Gourab, a Software Engineering Undergrad from Bangladesh. 
+### Hey, I'm Gourab, doing a master's in Information Systems and Technology. Love to work with data-related staff. If you have any interesting project plans or ideas, please reach out to me: gourabsahag@gmail.com
+
+
 ***
 
+[![Portfolio Visit](https://img.shields.io/badge/Site-Portfolio-blue)](http://gourab98.github.io/)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-gourabsaha98-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/gourabsaha98/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-gourabsaha.1998-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/gourabsaha.1998)
 [![Twitter Follow](https://img.shields.io/badge/%20-@GourabSaha98-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/GourabSaha98)
@@ -10,7 +13,7 @@
 [![Quora Follow](https://img.shields.io/badge/%20-Gourab--Saha--122-black?color=14171A&labelColor=B92B27&logo=Quora&logoColor=ffffff)](https://www.quora.com/profile/Gourab-Saha-122)
 [![Email Address](https://img.shields.io/badge/%20-gourabsahag@gmail.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:gourab04@student.sust.edu)
 [![Blog Visit](https://img.shields.io/badge/%20-Manstein's_Blog-black?color=14171A&labelColor=FF5722&logo=Blogger&logoColor=ffffff)](https://manstein.home.blog/)
-[![Portfolio Visit](https://img.shields.io/badge/Site-Portfolio-blue)](http://gourab98.github.io/)
+
 
 
 <!--
